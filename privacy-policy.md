@@ -111,6 +111,7 @@ When completing App Store Connect's privacy questionnaire, use these answers:
 - Purchases
 
 ### Data Collected
+
 | Data Type | Linked to User | Used for Tracking | Purpose |
 |-----------|----------------|-------------------|---------|
 | Health & Fitness | No | No | App Functionality |
