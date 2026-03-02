@@ -87,8 +87,6 @@ For questions about this privacy policy:
 - **Email**: fernandob@flippingbits.co
 - **Website**: [https://flipping-bits-co.github.io/SleepSupply-Support](https://flipping-bits-co.github.io/SleepSupply-Support)
 
-https://flipping-bits-co.github.io/SleepSupply-Support
-
 ---
 
 ## App Store Privacy Label Summary
