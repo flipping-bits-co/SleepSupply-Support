@@ -85,7 +85,9 @@ We may update this policy. Changes will be noted with an updated "Last Updated" 
 For questions about this privacy policy:
 
 - **Email**: fernandob@flippingbits.co
-- **Website**: [https://github.com/flipping-bits-co/sleepsupply-support](https://github.com/flipping-bits-co/sleepsupply-support)
+- **Website**: [https://flipping-bits-co.github.io/SleepSupply-Support](https://flipping-bits-co.github.io/SleepSupply-Support)
+
+https://flipping-bits-co.github.io/SleepSupply-Support
 
 ---
 
